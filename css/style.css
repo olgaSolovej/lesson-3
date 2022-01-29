@@ -1,0 +1,48 @@
+
+
+.header {
+    color: crimson;
+}
+
+
+
+._nav {
+    color: darkorchid;
+}
+
+.content {
+    color: gold;
+}
+
+._main {
+    color: maroon;
+}
+
+.basic._main {
+    color: mediumvioletred;
+}
+
+.basic._main>p {
+    color: red;
+}
+
+
+#name{
+    color: navy;
+}
+
+.basic._main>p.left{
+    color: midnightblue;
+}
+
+span.left{
+    color: rgb(255, 136, 0);
+}
+
+[title="test"]{
+    color: seagreen;
+}
+
+.none {
+    color: yellow;
+}
